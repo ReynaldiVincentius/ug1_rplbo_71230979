@@ -1,4 +1,4 @@
- ## Soal 1 (bobot 40)
+cls ## Soal 1 (bobot 40)
 Anda diberikan sebuah program java bernama FileGenerator. Program tersebut akan menghasilkan 3 buah file dengan format nama file {NIM}-{urutan}. Anda perlu memberikan sebuah argumen saat melakukan eksekusi program tersebut yang berupa NIM anda. Contoh eksekusi : “java FileGenerator 71111111”. Program ini akan digunakan untuk melakukan skenario penggunaan Git sebagai berikut:
 1. Jalankan program FileGenerator disertai argumen sesuai NIM anda masing – masing. 
 2. Lakukan commit untuk file yang dihasilkan dengan pesan "menambahkan file : {Nama File Yang Dihasilkan}".
